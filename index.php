@@ -36,7 +36,7 @@
   </nav>
 
   <div class="container my-3">
-    <h3>Top News <span class="badge badge-secondary">by Indian News</span></h3>
+    <h3>Top News <span class="badge badge-secondary">by Mayank Indian News</span></h3>
     <hr>
     <div class="accordion" id="newsAccordion"></div>
   </div>
